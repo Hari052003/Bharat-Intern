@@ -9,7 +9,7 @@ This is a simple to-do list application developed as part of the Bharat Internsh
 - Mark Tasks as Complete: Keep track of completed tasks by marking them as done.
 - Delete Tasks: Remove unwanted tasks from the to-do list.
 - Save Tasks: Tasks are saved persistently, so users can access them even after closing the app
-- 
+  
 ## License
 
 This project is licensed under the [Apache License 2.0](LICENSE).
